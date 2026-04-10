@@ -1,5 +1,7 @@
 ## Hola, soy Melany 👋
 
+Soy Estudiante de Ciencias de la Computacion en la Universidad de Buenos Aires
+
 <!--
 **mchuquimia/mchuquimia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
