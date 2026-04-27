@@ -1,7 +1,7 @@
 # Hola, soy Melany 👋
 
 ## Sobre mi
-Soy Estudiante de Ciencias de la Computacion en la Universidad de Buenos Aires, actualmente formándome en Programación Web Full Stack.
+Estudiante de Ciencias de la Computacion en la Universidad de Buenos Aires, actualmente formándome en Programación Web Full Stack.
 Busco oportunidades donde pueda seguir aprendiendo y aportar en el desarrollo de soluciones reales. Me interesa trabajar en equipo, mejorar continuamente y aplicar el pensamiento crítico a problemas concretos.
 
 ## Tecnologías y herramientas
