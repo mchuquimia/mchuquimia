@@ -6,8 +6,8 @@ Busco oportunidades donde pueda seguir aprendiendo y aportar en el desarrollo de
 
 ## Tecnologías y herramientas
 - **Lenguajes**: HTML, CSS, JavaScript, Java, C++, Python
-- **Herramientas**: Git, Visual Studio Code, Eclipse, Colab
-- **Metodologias**: POO, Desarrollo Full Stack, Back End, Front end, uso de IA 
+- **Herramientas**: Git, Visual Studio Code, Eclipse IDE, Colab
+- **Metodologias**: POO, Desarrollo Full Stack, Back End, Front end
 - **Manejo de agentes de inteligencia artificial**: ChatGPT, Claude, Copilot, Gemini
 - **Idiomas**: Inglés B1
 
