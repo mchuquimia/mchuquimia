@@ -5,10 +5,11 @@ Estudiante de Ciencias de la Computacion en la Universidad de Buenos Aires, actu
 Busco oportunidades donde pueda seguir aprendiendo y aportar en el desarrollo de soluciones reales. Me interesa trabajar en equipo, mejorar continuamente y aplicar el pensamiento crítico a problemas concretos.
 
 ## Tecnologías y herramientas
+- **Manejo de agentes de inteligencia artificial**: ChatGPT, Claude, Copilot, Gemini
+- **Gestión de proyectos**: Jira, Trello, Notion
 - **Lenguajes**: HTML, CSS, JavaScript, Java, C++, Python
 - **Herramientas**: Git, Visual Studio Code, Eclipse IDE, Colab
-- **Metodologias**: POO, Desarrollo Full Stack, Back End, Front end
-- **Manejo de agentes de inteligencia artificial**: ChatGPT, Claude, Copilot, Gemini
+- **Paradigmas de desarrollo**: Full Stack, Back End, Front end, POO
 - **Idiomas**: Inglés B1
 
 ## Contacto
